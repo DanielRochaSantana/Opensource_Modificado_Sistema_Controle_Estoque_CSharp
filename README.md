@@ -1,6 +1,9 @@
 # Sistema_Controle_Estoque_Opensource_Modificado_CSharp
 Sistema_Controle_Estoque_Opensource_Modificado_CSharp
 
+Observações Gerais:
+Os códigos fontes deste opensource foram obtidos no site http://www.macoratti.net.
+
 1. Leia o arquivo LICENSE;
 
 2. Certifique-se que estão instalados o 'MS Visual Studio' e 'MS SQL Server';
